@@ -1,27 +1,27 @@
 ## Alabama
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Alaska
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Arizona
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Arkansas
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## California
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Colorado
 
@@ -30,235 +30,235 @@
 
 ## Connecticut
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Delaware
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## District of Columbia
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Florida
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Georgia
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Hawaii
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Idaho
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Illinois
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Indiana
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Iowa
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Kansas
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Kentucky
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Louisiana
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Maine
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Maryland
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Massachusetts
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Michigan
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Minnesota
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Mississippi
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Missouri
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Montana
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Nebraska
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Nevada
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## New Hampshire
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## New Jersey
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## New Mexico
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## New York
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## North Carolina
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## North Dakota
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Ohio
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Oklahoma
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Oregon
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Pennsylvania
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Puerto Rico
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Rhode Island
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## South Carolina
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## South Dakota
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Tennessee
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Texas
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## U.S. Virgin Islands
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Utah
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Vermont
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Virginia
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Washington
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## West Virginia
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Wisconsin
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
 
 ## Wyoming
 
-### City
-* name of place, address
+### Add a city
+* add the name of place, then add the address
