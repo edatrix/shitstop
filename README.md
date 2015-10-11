@@ -10,3 +10,4 @@ i'm not sure what i'm going to do with this thing, but i hope that:
 
 * this list will grow enough to help people find a place they can change their kids
 * businesses on the list that don't have a chean space for diaper changing that is accessible to both women and men will wise up and add some
+* Chris will somehow map this in a way that makes sense ;)
