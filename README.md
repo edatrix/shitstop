@@ -8,8 +8,5 @@ so i'm starting this list.  i know this README has a lot of actual words, but he
 
 i'm not sure what i'm going to do with this thing, but i hope that:
 
-*this list will grow enough to help people find a place they can change their kids
-
-and
-
-*businesses on the list that don't have a chean space for diaper changing that is accessible to both women and men will wise up and add some.
+* this list will grow enough to help people find a place they can change their kids
+* businesses on the list that don't have a chean space for diaper changing that is accessible to both women and men will wise up and add some.
