@@ -41,7 +41,7 @@
 ## Colorado
 
 ### Golden
-* Colorado Railroad Museum, 17155 W 44th Ave, Golden, CO 80403
+* [Colorado Railroad Museum](17155 W 44th Ave, Golden, CO 80403)
   * yes
   * no
   * n/a
