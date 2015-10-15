@@ -11,3 +11,18 @@ i'm not sure what i'm going to do with this thing, but i hope that:
 * this list will grow enough to help people find a place they can change their kids
 * businesses on the list that don't have a clean space for diaper changing that is accessible to both women and men will wise up and add some
 * Chris will somehow map this in a way that makes sense ;)
+
+### this is an open source project and i need some help
+
+if you want to contribute, here's what you need to do:
+
+1. have a Github account
+2. click on the link above called [shitters.md](https://github.com/edatrix/shitstop/blob/master/shitters.md)
+3. click the little pencil icon in the top right corner of the text box to edit the file
+4. scroll through to the appropriate state and add information on the place you'd like to add, following the template format (see the first example in Golden, CO)
+5. add some comments if you'd like, then hit the "Propose Changes" button at the bottom of the page.
+
+that's it - you coded!  go on with your bad self.  once you hit submit, i'll be notified of the changes and can merge them into the master list.  
+
+thanks for your help!
+
