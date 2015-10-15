@@ -16,10 +16,10 @@ i'm not sure what i'm going to do with this thing, but i hope that:
 
 if you want to contribute, here's what you need to do:
 
-1. have a Github account
-2. click on the link above called [shitters.md](https://github.com/edatrix/shitstop/blob/master/shitters.md)
-3. click the little pencil icon in the top right corner of the text box to edit the file
-4. scroll through to the appropriate state and add information on the place you'd like to add, following the template format (see the first example in Golden, CO)
+1. have a [Github](https://github.com) account
+2. click [here](https://github.com/edatrix/shitstop/blob/master/shitters.md) or on the link above called `shitters.md`
+3. click the little pencil icon at the top right corner of the text box to edit the file
+4. scroll through to the appropriate state and add information on the place you'd like to add, following the template format (see the first example in Golden, CO).  let's try to keep this alphabetical, mmmkay?
 5. add some comments if you'd like, then hit the "Propose Changes" button at the bottom of the page.
 
 that's it - you coded!  go on with your bad self.  once you hit submit, i'll be notified of the changes and can merge them into the master list.  
